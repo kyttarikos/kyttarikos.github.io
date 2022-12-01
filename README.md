@@ -1,18 +1,1 @@
-<html>
-
-<head>
-    <title>Kyttarikos</title>
-
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Montserrat"> <!-- custom fonts via Google Fonts API -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- meta viewport for compatibility -->
-
-    <script src="index.js"></script>
-    <link rel="stylesheet" href="main.css">
-    <!-- CSS and JS to avoid longer PHP code -->
-</head>
-
-<body>
-    <h1>Sorry, my website is still in the works! Check ya later. :)</h1>
-</body>
-
-</html>
+# Kyttarikos????
